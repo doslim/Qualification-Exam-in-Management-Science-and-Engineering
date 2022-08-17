@@ -13,7 +13,7 @@
 
 ## 概率统计+随机过程+统计学习
 1. 本科概率论与数理统计的知识
-2. 随机过程：布朗运动、马氏过程、伊藤积分等
+2. 随机过程：高斯过程、布朗运动、马尔可夫链、伊藤积分等
 3. 统计学习部分主要内容借鉴了 [*An Introduction to Statistical Learning*](https://www.statlearning.com/)
 
 
