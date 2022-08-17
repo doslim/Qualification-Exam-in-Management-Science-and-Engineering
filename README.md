@@ -1,5 +1,6 @@
 # Qulification Exam in Management Science and Engineering
  Useful materials for the doctoral qualification exam in Management Science and Engineering
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Doslim.Qulification-Exam-in-Management-Science-and-Engineering)
 
  本仓库包含了管科科学与工程专业博资考相关的材料，内容按照信息系统(Information Sytem)和运作管理(Operation Management)两个方向进行梳理，主要包括
@@ -8,7 +9,7 @@
  - 信息系统方向：信息技术与组织（含信息系统方向的常见理论），高级信息系统，统计学习，数据挖掘*
  - 运作管理方向：运作管理与供应链管理，运筹学（凸优化）、线性与非线性规划，决策理论与动态规划*，高级微观经济学*
 
-带星号的内容暂未更新。
+带*的内容暂未更新。
 
 ## 概率统计+随机过程+统计学习
 1. 本科概率论与数理统计的知识
